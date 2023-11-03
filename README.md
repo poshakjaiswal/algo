@@ -2,7 +2,7 @@
 Algorithm Learning
 
 
-Creating a comprehensive README for your GitHub repository dedicated to teaching algorithms in Java and helping with interview preparation is essential to provide clear information and guide users effectively. Here's a sample README.md template for your repository:
+This repository is dedicated to teaching algorithms in Java and helping with interview preparation effectively.
 
 # Algorithm Learning and Interview Preparation in Java
 
