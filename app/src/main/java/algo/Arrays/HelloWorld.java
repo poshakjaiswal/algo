@@ -1,11 +1,13 @@
 package algo.Arrays;
 
-public class HelloWorld{
+import java.util.ArrayList;
+import java.util.List;
 
-    //Initial Setup
-    public static void main(String[] args){
+public class HelloWorld {
 
-        System.out.println("Hello world");
+  // Initial Setup
+  public static void main(String[] args) {
 
-    }
+    System.out.println("Hello world");
+  }
 }
