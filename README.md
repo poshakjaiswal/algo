@@ -97,4 +97,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 Happy coding and best of luck with your algorithm learning and interview preparation journey! If you have questions or need assistance, don't hesitate to open an issue or reach out to the repository's maintainers.
 
-_Your Name_
+Poshak Jaiswal
