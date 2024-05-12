@@ -1,0 +1,25 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ç¦üÿÿÿÿ8õË˜åÜ1
+i
+java:S3959;"GRefactor this code so that this consumed stream pipeline is not reused.(ûÌêûÿÿÿÿ8ã¿ÌåÜ1
+X	java:S125"<This block of commented-out lines of code should be removed.(·îİƒ8üË˜åÜ1
+]	java:S125"<This block of commented-out lines of code should be removed.(™ï¼ëüÿÿÿÿ8ø·ÈåÜ1
+]	java:S125!"<This block of commented-out lines of code should be removed.(ÓÅœàÿÿÿÿÿ8–ÏÆåÜ1
+M
+java:S1874#"+Remove this use of "URL"; it is deprecated.(ê–Êæùÿÿÿÿ8™øÇåÜ1
+]	java:S1251"<This block of commented-out lines of code should be removed.(°ĞÅıÿÿÿÿ8ƒ‹ÊåÜ1
+L	java:S106;"+Replace this use of System.out by a logger.(ûÌêûÿÿÿÿ8‚Ì˜åÜ1
+G	java:S106<"+Replace this use of System.out by a logger.(†Ë§İ8Ø­ÍåÜ1
+G	java:S106>"+Replace this use of System.out by a logger.(¢ì±ì8œ£‡æÜ1
+F
+java:S1128	")Remove this unused import 'java.net.URI'.(Ö¦¨°8ì¿ÌåÜ1
+W
+java:S1128"5Remove this unused import 'java.net.http.HttpClient'.(Œ³’Öşÿÿÿÿ8ì¿ÌåÜ1
+X
+java:S1128"6Remove this unused import 'java.net.http.HttpRequest'.(ş€ŠÍşÿÿÿÿ8ì¿ÌåÜ1
+Y
+java:S1128"7Remove this unused import 'java.net.http.HttpResponse'.(’ûÌûÿÿÿÿ8ì¿ÌåÜ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ì¿ÌåÜ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ì¿ÌåÜ1

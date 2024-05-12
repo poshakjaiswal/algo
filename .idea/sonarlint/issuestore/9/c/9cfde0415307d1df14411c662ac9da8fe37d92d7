@@ -1,0 +1,20 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úôé8Üª±ºİ1
+v
+java:S4144k"YUpdate this method so that its implementation is not identical to "getField1" on line 94.(¸ùÛ8èª±ºİ1
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ÂÂÁôÿÿÿÿÿ8éª±ºİ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ßÊ†ùÿÿÿÿ8éª±ºİ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä“‡8éª±ºİ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úªª•ıÿÿÿÿ8éª±ºİ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úªª•ıÿÿÿÿ8éª±ºİ1
+G	java:S106#"+Replace this use of System.out by a logger.(Œ÷Ù’8êª±ºİ1
+M
+java:S18742"+Remove this use of "URL"; it is deprecated.(ıÍà½úÿÿÿÿ8ìª±ºİ1
+X	java:S125{"<This block of commented-out lines of code should be removed.(›å¨Â8ğª±ºİ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ğª±ºİ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ğª±ºİ1
+K
+java:S1144^".Remove this unused private "getField1" method.(ı“Ä€8ğª±ºİ1

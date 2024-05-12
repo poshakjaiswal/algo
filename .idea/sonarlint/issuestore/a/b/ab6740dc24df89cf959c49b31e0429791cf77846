@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆÈ¸¥8¥ÇÌ¹Ý1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÖóŒŠ8­ÿØ¹Ý1
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ÃŸÐøÿÿÿÿ8Þ¢ä¹Ý1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä“‡8™ÝÜ¹Ý1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úªª•ýÿÿÿÿ8ÌÕÞ¹Ý1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úªª•ýÿÿÿÿ8„àã¹Ý1
+G	java:S106""+Replace this use of System.out by a logger.(Œ÷Ù’8³ÇÌ¹Ý1
+M
+java:S18741"+Remove this use of "URL"; it is deprecated.(ýÍà½úÿÿÿÿ8´ÇÌ¹Ý1

@@ -1,0 +1,22 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èÓ¶ÿ8‡ÍôºÝ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ßÊ†ùÿÿÿÿ8ÍôºÝ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä“‡8ÄüºÝ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Úªª•ýÿÿÿÿ8‘ÍôºÝ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ã«ì‡8¥ÿ†ß1
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(Ìëû¿ÿÿÿÿÿ8‚¥ÿ†ß1
+]	java:S125 "<This block of commented-out lines of code should be removed.(Úªª•ýÿÿÿÿ8·÷ú†ß1
+G	java:S106%"+Replace this use of System.out by a logger.(Œ÷Ù’8‘ÍôºÝ1
+M
+java:S18744"+Remove this use of "URL"; it is deprecated.(ýÍà½úÿÿÿÿ8“ÍôºÝ1
+]	java:S125:"<This block of commented-out lines of code should be removed.(Ââ„€ýÿÿÿÿ8”ÍôºÝ1
+]	java:S125X"<This block of commented-out lines of code should be removed.(ÿØÈôûÿÿÿÿ8Øö÷ºÝ1
+b
+java:S1612‰"?Replace this lambda with method reference 'fieldValue::equals'.(æÚ‰žûÿÿÿÿ8˜ÍôºÝ1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(ÂøÜ8˜ÍôºÝ1
+Y	java:S125±"<This block of commented-out lines of code should be removed.(›å¨Â8™ÍôºÝ1
+V
+java:S1144c"4Remove this unused private "isContactMatch1" method.(ˆž…©üÿÿÿÿ8™ÍôºÝ1
+L
+java:S1144‘".Remove this unused private "getField1" method.(ý“Ä€8™ÍôºÝ1

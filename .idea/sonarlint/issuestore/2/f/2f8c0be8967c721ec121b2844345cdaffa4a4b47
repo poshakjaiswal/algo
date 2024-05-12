@@ -1,0 +1,9 @@
+
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(φΰ³ε8‚›εά1
+M
+java:S1874"+Remove this use of "URL"; it is deprecated.(κ–Κζωÿÿÿÿ8Ά›εά1
+L	java:S106*"+Replace this use of System.out by a logger.(³πΈϋÿÿÿÿ8¶›εά1
+L	java:S106-"+Replace this use of System.out by a logger.(¨¶ΡΝώÿÿÿÿ8·›εά1
+C
+java:S1128"&Remove this unused import 'java.util'.(Ξ€Ω8Έ›εά1

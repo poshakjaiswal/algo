@@ -1,0 +1,16 @@
+
+9
+java:S1643 "Use a StringBuilder instead.(Öãıç8¸áÇæÏ1
+9
+java:S1643*"Use a StringBuilder instead.(’¶ğ8¸áÇæÏ1
+a
+java:S1854"?Remove this useless assignment to local variable "iterateUpto".(Õü«‘ıÿÿÿÿ8˜œ—æÏ1
+J
+java:S1481	"-Remove this unused "addition" local variable.(¯òğì8™œ—æÏ1
+R
+java:S1481"0Remove this unused "iterateUpto" local variable.(šÄí–ÿÿÿÿÿ8™œ—æÏ1
+H
+java:S19059"&Remove this unnecessary cast to "int".(‹ÔÛİûÿÿÿÿ8 œ—æÏ1
+H
+java:S19059"&Remove this unnecessary cast to "int".(‹ÔÛİûÿÿÿÿ8 œ—æÏ1
+G	java:S106R"+Replace this use of System.out by a logger.(œÖ•ˆ8¡œ—æÏ1
